@@ -1,8 +1,8 @@
 mini-number-counter
 ========
 ## 关于
-
-mini-number-counter是一个适用于小程序的数字滚动效果的插件。
+[mini-number-counter](https://www.npmjs.com/package/mini-number-counter)
+是一个适用于小程序的数字滚动效果的插件。
 
 ## 使用说明
 ```bash
