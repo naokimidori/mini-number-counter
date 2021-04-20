@@ -1,13 +1,19 @@
 {
   "name": "mini-number-counter",
   "version": "0.0.1",
-  "private": false,
+  "private": true,
   "description": "number animate library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "naokimidori@163.com",
+  "author": "vinoz <naokimidori@163.com>",
   "license": "MIT",
-  "repository": "https://github.com/naokimidori/mini-number-counter"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naokimidori/mini-number-counter"
+  },
+  "bugs": {
+    "url": "https://github.com/rahulsend89/jsObject/issues"
+  }
 }
